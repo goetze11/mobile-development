@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ciaragoetze/AndroidStudioProjects/Minesweeper/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/ciaragoetze/.android/build-cache/d8bc1856d655267170cc4af00c20845d46edb85e/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/ciaragoetze/AndroidStudioProjects/Minesweeper/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/ciaragoetze/.android/build-cache/d8bc1856d655267170cc4af00c20845d46edb85e/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/ciaragoetze/AndroidStudioProjects/Minesweeper/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/ciaragoetze/.android/build-cache/d8bc1856d655267170cc4af00c20845d46edb85e/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/ciaragoetze/AndroidStudioProjects/Minesweeper/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/ciaragoetze/.android/build-cache/d8bc1856d655267170cc4af00c20845d46edb85e/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="flag">FLAG</string>
+    <string name="step">STEP</string>
+    <string name="new_game">New Game</string>
+    <string name="game_lost_by_flag">You placed a flag on a square that wasn\'t a mine. Game over!
+    Press New Game to play again.</string>
+    <string name="game_won">You avoided all the mines. You won! Press New Game to play again.
+    </string>
+    <string name="game_lost_by_mine">You hit a mine. Game over! Press New Game to play again.
+    </string>
+</resources>

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/ciaragoetze/AndroidStudioProjects/Minesweeper/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/ciaragoetze/.android/build-cache/53845dc69cae7cf67d4cd2f8b4cf2492594380a1/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/ciaragoetze/AndroidStudioProjects/Minesweeper/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/ciaragoetze/.android/build-cache/53845dc69cae7cf67d4cd2f8b4cf2492594380a1/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/ciaragoetze/AndroidStudioProjects/Minesweeper/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/ciaragoetze/.android/build-cache/152b5a1d8286ec59b999d6fc7851eb55c393b31e/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/ciaragoetze/AndroidStudioProjects/Minesweeper/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/ciaragoetze/.android/build-cache/53845dc69cae7cf67d4cd2f8b4cf2492594380a1/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/ciaragoetze/AndroidStudioProjects/Minesweeper/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/ciaragoetze/.android/build-cache/152b5a1d8286ec59b999d6fc7851eb55c393b31e/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/ciaragoetze/AndroidStudioProjects/Minesweeper/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/ciaragoetze/.android/build-cache/53845dc69cae7cf67d4cd2f8b4cf2492594380a1/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/ciaragoetze/AndroidStudioProjects/Minesweeper/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/ciaragoetze/.android/build-cache/53845dc69cae7cf67d4cd2f8b4cf2492594380a1/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/ciaragoetze/AndroidStudioProjects/Minesweeper/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
+        "source": "/Users/ciaragoetze/.android/build-cache/53845dc69cae7cf67d4cd2f8b4cf2492594380a1/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/ciaragoetze/AndroidStudioProjects/Minesweeper/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/ciaragoetze/.android/build-cache/53845dc69cae7cf67d4cd2f8b4cf2492594380a1/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/ciaragoetze/AndroidStudioProjects/Minesweeper/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/ciaragoetze/.android/build-cache/53845dc69cae7cf67d4cd2f8b4cf2492594380a1/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/ciaragoetze/AndroidStudioProjects/Minesweeper/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/ciaragoetze/.android/build-cache/152b5a1d8286ec59b999d6fc7851eb55c393b31e/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/ciaragoetze/AndroidStudioProjects/Minesweeper/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/ciaragoetze/.android/build-cache/53845dc69cae7cf67d4cd2f8b4cf2492594380a1/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/ciaragoetze/AndroidStudioProjects/Minesweeper/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/ciaragoetze/.android/build-cache/53845dc69cae7cf67d4cd2f8b4cf2492594380a1/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/ciaragoetze/AndroidStudioProjects/Minesweeper/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/ciaragoetze/.android/build-cache/53845dc69cae7cf67d4cd2f8b4cf2492594380a1/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/ciaragoetze/AndroidStudioProjects/Minesweeper/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
+        "source": "/Users/ciaragoetze/.android/build-cache/53845dc69cae7cf67d4cd2f8b4cf2492594380a1/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/ciaragoetze/AndroidStudioProjects/Minesweeper/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/ciaragoetze/.android/build-cache/152b5a1d8286ec59b999d6fc7851eb55c393b31e/output/res/anim/design_snackbar_in.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Thu Oct 19 12:34:21 CEST 2017
+base.0=/Users/ciaragoetze/AndroidStudioProjects/Minesweeper/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_103893208acf3e6467914e38cccc19c3e0bd2a7d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/ciaragoetze/AndroidStudioProjects/Minesweeper/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_86ad7827fa3aced2edc9fbe4368bbc539b35218f/classes.dex
+base.1=/Users/ciaragoetze/AndroidStudioProjects/Minesweeper/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_86ad7827fa3aced2edc9fbe4368bbc539b35218f
+file.0=/Users/ciaragoetze/AndroidStudioProjects/Minesweeper/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_103893208acf3e6467914e38cccc19c3e0bd2a7d/classes.dex

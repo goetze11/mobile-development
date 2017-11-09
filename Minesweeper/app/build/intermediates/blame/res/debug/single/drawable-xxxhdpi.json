@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ciaragoetze/AndroidStudioProjects/Minesweeper/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_action_emo_evil.png",
+        "source": "/Users/ciaragoetze/AndroidStudioProjects/Minesweeper/app/src/main/res/drawable-xxxhdpi/ic_action_emo_evil.png"
+    },
+    {
+        "merged": "/Users/ciaragoetze/AndroidStudioProjects/Minesweeper/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_action_flag.png",
+        "source": "/Users/ciaragoetze/AndroidStudioProjects/Minesweeper/app/src/main/res/drawable-xxxhdpi/ic_action_flag.png"
+    }
+]

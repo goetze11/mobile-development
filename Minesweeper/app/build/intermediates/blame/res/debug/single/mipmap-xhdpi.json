@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ciaragoetze/AndroidStudioProjects/Minesweeper/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/ciaragoetze/AndroidStudioProjects/Minesweeper/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ciaragoetze/AndroidStudioProjects/Minesweeper/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/Users/ciaragoetze/AndroidStudioProjects/Minesweeper/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    }
+]
