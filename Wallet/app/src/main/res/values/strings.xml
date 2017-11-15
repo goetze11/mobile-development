@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndWallet</string>
+    <string name="balance_title">Balance</string>
+    <string name="balance_message">Your current balance is: $%1$d</string>
+    <string name="remove_alert">OK</string>
+    <string name="income">Income: $%1$d</string>
+    <string name="outcome">Expenses: $%1$d</string>
+    <string name="balance">Balance: $%1$d</string>
+</resources>
