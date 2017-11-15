@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="item_price">Price: $%1$s</string>
+    <string name="item_description">Description: %1$s</string>
+    <string name="category_food">food</string>
+    <string name="category_clothing">clothing</string>
+    <string name="category_electronic">electronic</string>
+    <string name="category_book">book</string>
+    <string name="category_household">household</string>
+    <string name="item_ID">itemID</string>
+    <string name="item_title">itemTitle</string>
+    <string-array name="category_array">
+        <item>Food</item>
+        <item>Book</item>
+        <item>Clothing</item>
+        <item>Household</item>
+        <item>Electronic</item>
+    </string-array>
+</resources>
