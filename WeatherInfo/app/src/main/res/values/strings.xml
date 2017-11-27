@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">WeatherInfo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="city_name">cityName</string>
+    <string name="app_id">2862b28b499d9057502eb8423f2ce541</string>
+    <string name="units">metric</string>
+
+    <string name="item_ID">itemID</string>
+
+    <string name="degree_sign">%1$s°</string>
+    <string name="max_temp">Maximum Temperature: %1$s</string>
+    <string name="min_temp">Minimum Temperature: %1$s</string>
+    <string name="clouds">Clouds: %1$s</string>
+    <string name="wind">Wind Speed: %1$s</string>
+    <string name="sunrise">Sunrise: %1$s</string>
+    <string name="sunset">Sunset: %1$s</string>
+    <string name="icon_base">http://openweathermap.org/img/w/%1$s.png</string>
+    <string name="unit_type">metric</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_add">Add</string>
+    <string name="dialog_title">Add a City</string>
+    <string name="author_toast">Author: Ciara Goetze</string>
+    <string name="api_base_url">"http://api.openweathermap.org"</string>
+    <string name="empty_error">You must enter a city name</string>
+</resources>

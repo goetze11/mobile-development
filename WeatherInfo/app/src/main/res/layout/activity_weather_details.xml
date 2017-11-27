@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#E4F5F3"
+    android:gravity="center_horizontal"
+    tools:context="homework.ciaragoetze.weatherinfo.WeatherDetailsActivity">
+
+    <TextView
+        android:id="@+id/tvCity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="City Name"
+        android:layout_marginTop="20dp"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/tvWeather"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="0.0"
+        android:layout_margin="10dp"
+        android:textSize="54sp" />
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@mipmap/ic_launcher"
+        android:id="@+id/ivImage"
+        android:layout_marginBottom="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Max: 0.0"
+        android:id="@+id/tvMax"
+        android:textSize="20sp"
+        android:gravity="center_horizontal"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Min: 0.0"
+        android:id="@+id/tvMin"
+        android:textSize="20sp"
+        android:gravity="center_horizontal"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Clouds: 0.0"
+        android:id="@+id/tvClouds"
+        android:textSize="20sp"
+        android:gravity="center_horizontal"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Wind: 0.0"
+        android:id="@+id/tvWind"
+        android:textSize="20sp"
+        android:gravity="center_horizontal"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sunrise: 0:00"
+        android:id="@+id/tvSunrise"
+        android:textSize="20sp"
+        android:gravity="center_horizontal"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sunset: 0:00"
+        android:id="@+id/tvSunset"
+        android:textSize="20sp"
+        android:gravity="center_horizontal"/>
+
+
+</LinearLayout>
